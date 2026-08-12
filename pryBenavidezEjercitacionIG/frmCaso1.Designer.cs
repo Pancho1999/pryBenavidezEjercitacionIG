@@ -107,7 +107,7 @@
             // 
             // btnPresentar
             // 
-            btnPresentar.Location = new Point(122, 292);
+            btnPresentar.Location = new Point(97, 169);
             btnPresentar.Name = "btnPresentar";
             btnPresentar.Size = new Size(75, 23);
             btnPresentar.TabIndex = 8;
@@ -119,7 +119,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(345, 370);
+            ClientSize = new Size(249, 276);
             Controls.Add(btnPresentar);
             Controls.Add(lbCarrera);
             Controls.Add(lbEdad);
